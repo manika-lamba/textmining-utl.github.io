@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network analysis on Text Mining: An Uncharted Territory for Librarians</title>
+    <link>/tags/network-analysis/</link>
+    <description>Recent content in network analysis on Text Mining: An Uncharted Territory for Librarians</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Text Analysis </title>
+      <link>/project/networkanalysis/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/networkanalysis/</guid>
+      <description>Hands-on-Training     The github repository contains a reproducible research compendium for the case study used in the book.     So you can reproduce the analysis in the cloud without having to install any software or downloading the data. The computational environment runs using BinderHub. Click the Virtual RSTUDIO SERVER to open an interactive virtual RStudio environment or VIRTUAL JUPYTER NOTEBOOK to open an interactive virtual Jupyter notebook for a hands-on practice for the case studies that used R programming language.</description>
+    </item>
+    
+  </channel>
+</rss>
