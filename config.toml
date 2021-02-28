@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://textmining-utl.github.io/"
 languageCode = "en"
 theme = "hugo-apero"
 title = "Text Mining: An Uncharted Territory for Librarians"
